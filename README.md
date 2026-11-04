@@ -7,9 +7,9 @@ This is my solution to the kaggle competiton playground series 6 episode 10
 * Pandas
 * Sklearn
 * SHAP
-* Gradient boost models - catBoost, xgboost, lightGBM
+* Gradient boost models - CatBoost, XGBoost, LightGBM
 * Random Forest
-* Logistic Regression as final model
+* LogisticRegression as final model
 
 
 🚀 Key Features:
